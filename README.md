@@ -1,7 +1,9 @@
-
-
 # Cs231n Lecture Notes
+
+------
+
 - [Cs231n Lecture Notes](#cs231n-lecture-notes)
+
   * [Image Classification](#image-classification)
     + [Challenges](#challenges)
     + [Classification Pipeline](#classification-pipeline)
@@ -9,6 +11,9 @@
     + [K-Nearest Neighbor](#k-nearest-neighbor)
     + [Validation sets for Hyperparameter tuning](#validation-sets-for-hyperparameter-tuning)
     + [Summary: Applying kNN in practice](#summary-applying-knn-in-practice)  
+
+------
+
 ## Image Classification
 
 ### Challenges
