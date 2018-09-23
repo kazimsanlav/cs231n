@@ -7,12 +7,12 @@
   ~~Historical context~~ 
   ~~Course logistics~~
 
-- ### Lecture 2
+- ### ~~Lecture 2~~
 
-  Image Classification
+  ~~Image Classification~~
 
-  The data-driven approach
-  K-nearest neighbor
+  ~~The data-driven approach~~
+  ~~K-nearest neighbor~~
   Linear classification I
 
 - ### Discussion Section
